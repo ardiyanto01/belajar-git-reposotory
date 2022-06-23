@@ -1,1 +1,1 @@
-# lalala
+ini file pertama
